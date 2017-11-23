@@ -1,0 +1,41 @@
+.jumbotron{
+    text-align:center;
+    background:none;
+}
+
+.sectionLight{
+    background-color:#eceeef;
+    padding:2rem;
+}
+
+.sectionDark{
+    background-color:#cccccc;
+    padding:2rem;
+}
+
+button.coolstuffBtn{
+    color:white;
+    background-color:red;
+    display:block;
+    margin:auto;
+    margin-top:20px;
+}
+
+h5.modal-title{
+    margin:auto;
+}
+
+.row.coolStuffModalWrap{
+    margin-top:2rem;
+    margin-bottom:2rem;
+}
+
+img.imgCenter{
+    display:block;
+    margin:auto;
+}
+
+button.btnCenter{
+    display:block;
+    margin:auto;
+}

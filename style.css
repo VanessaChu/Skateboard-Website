@@ -38,4 +38,31 @@ img.imgCenter{
 button.btnCenter{
     display:block;
     margin:auto;
+    margin-top:1rem;
+    margin-bottom:1.5rem;
+    width:50%;
+}
+
+img.imgFooter{
+    padding:1rem;
+}
+
+.fa{
+    margin:10px;
+}
+
+.fa-facebook-square{
+    color: #3b5998;
+}
+
+.fa-google-plus-square{
+    color:#c32f10;
+}
+
+.socialWrapper{
+    margin:auto;
+}
+
+.fa-instagram{
+    color:#ffffff;
 }
